@@ -9,8 +9,8 @@
 - 😄 Pronome: ele/dele
 
 <div>
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cleiton0Lima&show_icons=true&bg_color=00000000" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleiton0Lima&langs_count=8&bg_color=00000000" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Cleiton0Lima&show_icons=true&theme=shadow_blue" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleiton0Lima&langs_count=8&theme=shadow_blue" />
 </div>
 
 <div style="display: inline_block"><br>
