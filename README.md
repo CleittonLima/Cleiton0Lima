@@ -23,4 +23,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Cleiton0Lima}/count.svg" /></p>
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=footer&text=Obrigado+pela+visita&fontColor=ffff&animation=twinkling&fontAlignY=50&fontSize=20"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=footer&text=Obrigado+pela+visita+:%29&fontColor=ffff&animation=twinkling&fontAlignY=50&fontSize=20"/>
