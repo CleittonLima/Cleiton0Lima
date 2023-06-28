@@ -11,11 +11,9 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleiton0Lima&langs_count=8&theme=github_dark" />
 </div>
 
-##
+#
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=20&center=true&vCenter=false&width=1000&lines=Estou+cursando+SI+,+no+momento+estou+no+3º+período;Tenho+conhecimento+intermediário+em+Python+e+Java;Faço+artes+no+Photoshop+e+Canva+,+edito+imagens+no+Lightroom;Estou+sempre+procurando+aprender+algo+novo;Fique+à+vontade+para+olhar+meu+perfil+e+projetos+:%29)](https://git.io/typing-svg)
-
-## 
 
 ## *Skills* 🚀
 <div style="display: inline_block"><br>
