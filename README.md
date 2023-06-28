@@ -28,7 +28,8 @@
 ## *Design* 🖌️
 <div style="display: inline_block"><br>
   <img align="center" alt=Photoshop1" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-  <img align="center" alt=Lightroom1" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
+  <img align="center" alt=Lightroom1" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=black" />
+  <img align="center" alt=Canva1" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
 
 <!--
@@ -39,3 +40,9 @@
 -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39c8ff&height=150&section=footer&text=Obrigado+pela+visita+:%29&fontColor=ffff&animation=twinkling&fontAlignY=50&fontSize=30"/>
+
+<div>
+  <img height="20" src="https://img.shields.io/badge/AMD-Ryzen_5_3500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img height="20" src="https://img.shields.io/github/followers/Cleiton0Lima.svg?style=social&label=Follow&maxAge=2592000" />
+</div>
