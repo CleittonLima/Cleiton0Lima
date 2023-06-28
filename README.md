@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Erisvaldo+Cleiton;Seja+bem+vindo!!+:%29)](https://git.io/typing-svg)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cleitton_lima1?igshid=NGExMmI2YTkyZg==)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erisvaldo-cleiton-de-almeida-lima-5a9719231/)
 - 🎓 Estudando Sistemas de Informação (3° Período)
 - 🌱 Conhecimento básico em *PYTHON* & *JAVA*
 - 📫 Contatar-me: cleittonlima135@gmai.com
