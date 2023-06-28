@@ -6,19 +6,27 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erisvaldo-cleiton-de-almeida-lima-5a9719231/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/cleittonlima)
 
-- 🎓 Estudando Sistemas de Informação (3° Período)
-- 🌱 Conhecimento básico em *PYTHON* & *JAVA*
-- 📫 Contatar-me: cleittonlima135@gmai.com
-- 😄 Pronome: ele/dele
-
 <div>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Cleiton0Lima&show_icons=true&theme=github_dark" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleiton0Lima&langs_count=8&theme=github_dark" />
 </div>
 
+## *Skills* 🚀
 <div style="display: inline_block"><br>
   <img align="center" alt=Java1" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt=Python1" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+## *IDE* 🤖
+<div style="display: inline_block"><br>
+  <img align="center" alt=Eclipse1" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img align="center" alt=Pycharm1" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+  <img align="center" alt=VSCode1" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img align="center" alt=Intellij1" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</div>
+
+## *Design* 🖌️
+<div style="display: inline_block"><br>
   <img align="center" alt=Photoshop1" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
   <img align="center" alt=Lightroom1" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
 </div>
@@ -31,5 +39,3 @@
 -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39c8ff&height=150&section=footer&text=Obrigado+pela+visita+:%29&fontColor=ffff&animation=twinkling&fontAlignY=50&fontSize=30"/>
-
-![Snake animation](https://github.com/Cleiton0Lima/Cleiton0Lima/blob/output/github-contribution-grid-snake.svg)
