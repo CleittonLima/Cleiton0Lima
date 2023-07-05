@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Erisvaldo+Cleiton;Seja+bem+vindo!!+:%29)](https://git.io/typing-svg)
 
+#
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cleitton_lima1/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erisvaldo-cleiton-de-almeida-lima-5a9719231/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/cleittonlima)
@@ -10,6 +12,8 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Cleiton0Lima&show_icons=true&theme=transparent" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleiton0Lima&langs_count=8&theme=transparent" />
 </div>
+
+#
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=20&center=true&vCenter=false&width=1000&lines=Estou+cursando+SI+,+no+momento+estou+no+3º+período;Tenho+conhecimento+intermediário+em+Python+e+Java;Faço+artes+no+Photoshop+e+Canva+,+edito+imagens+no+Lightroom;Estou+sempre+procurando+aprender+algo+novo;Fique+à+vontade+para+olhar+meu+perfil+e+projetos+:%29)](https://git.io/typing-svg)
 
