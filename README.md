@@ -8,8 +8,8 @@
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/cleittonlima)
 
 <div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Cleiton0Lima&show_icons=true&theme=transparent" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleiton0Lima&langs_count=8&theme=transparent" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CleittonLima&show_icons=true&theme=transparent" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleittonLima&langs_count=8&theme=transparent" />
 </div>
 
 #
@@ -49,5 +49,5 @@
 <div>
   <img height="20" src="https://img.shields.io/badge/AMD-Ryzen_5_3500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img height="20" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img height="20" src="https://img.shields.io/github/followers/Cleiton0Lima.svg?style=social&label=Follow&maxAge=2592000" />
+  <img height="20" src="https://img.shields.io/github/followers/CleittonLima.svg?style=social&label=Follow&maxAge=2592000" />
 </div>
